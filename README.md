@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/WeRdevelopers/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Trying%20To%20Professional%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Trying%20To%20Being%20Professional%20&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
