@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
- Believe in me you are truly a programmer too 🧑‍💻
+ Believe in me
+  U R truly a programmer 2 <3
 </p>
 
 </p>
